@@ -1,0 +1,1 @@
+# EUMETSAT-AI-for-EO-Course
